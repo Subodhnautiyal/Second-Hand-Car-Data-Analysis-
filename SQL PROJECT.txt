@@ -1,4 +1,4 @@
--- create schema cars;
+create schema cars;
 use cars;
 -- Read Data  
 select * FROM cars.car_dekho;
